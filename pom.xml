@@ -41,7 +41,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>hello</finalName>
+        <finalName>java_servlet_starter</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
